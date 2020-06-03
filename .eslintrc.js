@@ -59,7 +59,6 @@ module.exports = {
     'import/no-extraneous-dependencies': 'off',
     'no-plusplus': 'error',
     'react/prop-types': 'error',
-    'no-undef': 'off',
   },
   settings: {
     'import/resolver': {
